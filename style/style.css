@@ -1,0 +1,29 @@
+body{background-color:Dust rgb(168, 176, 153) ;
+font-family: "Russo One", sans-serif
+;}
+h1{
+    color:rgb(2, 83, 2);
+    font-size: 50px;
+    font-weight: 700;
+}
+  h2{
+    color:rgb(2, 83, 2);
+    font-size: 40px;
+    font-weight: 600;
+  }
+  p{
+    color:rgb(105, 138, 74);
+    font-size: 25px;
+    font-weight: 500;
+  }
+  h3 {
+  color: rgb(2, 83, 2);
+
+  font-size: 45px;
+
+  font-weight: 750}
+  ol{
+    color:rgb(124, 130, 101);
+    font-size: 20px;
+    font-weight: 500;
+  }
